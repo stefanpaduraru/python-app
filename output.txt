@@ -1,0 +1,18 @@
+2018-09-15 04:04:50,319 - root - INFO - ShineOn: Starting up
+2018-09-15 04:04:50,320 - root - INFO - ShineOn PID: 2562
+2018-09-15 04:04:50,330 - root - INFO - Found HUE lights at 192.168.1.201
+2018-09-15 04:04:50,332 - root - INFO - Searching for LAN devices
+2018-09-15 04:04:58,850 - root - INFO - Querying chromecast device status
+2018-09-15 04:04:59,016 - root - INFO - Querying chromecast device status
+2018-09-15 04:04:59,221 - root - INFO - Could not connect to WebOSTV at 192.168.1.205
+2018-09-15 04:04:59,223 - root - INFO - Found cast device Music at 192.168.1.203
+2018-09-15 04:04:59,262 - root - INFO - Found cast device Video at 192.168.1.202
+2018-09-15 04:04:59,407 - root - INFO - Google Assistant PID: 2572
+2018-09-15 04:04:59,410 - root - INFO - LEDS: Starting
+2018-09-15 04:04:59,414 - root - INFO - Google Assistant: Starting
+2018-09-15 04:04:59,431 - root - INFO - LEDS PID: 2573
+2018-09-15 04:04:59,436 - root - INFO - LEDS: Started
+2018-09-15 04:04:59,453 - root - INFO - Server PID: 2574
+2018-09-15 04:04:59,457 - root - INFO - Server: Starting up on 0.0.0.0 port 1123
+2018-09-15 04:04:59,459 - root - INFO - Server: Started
+2018-09-15 04:05:02,405 - root - INFO - Google Assistant: Started

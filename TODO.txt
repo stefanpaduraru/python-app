@@ -1,0 +1,40 @@
+#TODO SocketServer
+- reorganise socket server queue, add originator key to determine message direction
+- socket server, add functionality to read queue messages sent by the interpreter (status messages)
+
+#TODO 
+- progressive app (started, 60%)
+- 
+
+
+#TODO buttons process
+#TODO sensors process
+
+#TODO shutdown command
+
+#TODO webserver for some diagnostics
+#TODO status diagnostics
+
+
+#HUE
+#TODO implement hue bridge discovery
+#TODO implement hue bridge automatic connection
+#TODO implement hue connected attribute
+#TODO implement hue store user
+#TODO implement hue lights based on music
+#TODO implement wake up cycle
+
+#LEDS
+#TODO implement new color animation
+#TODO implement party mode
+#TODO implement alarm animation
+#TODO implement color pick up from scenes
+#TODO implement wake up cycle
+
+#chromecasts
+#TODO check pause/mute
+
+#assistant
+#DONE implement file logging
+#TODO update script
+#TODO automatic starting up
